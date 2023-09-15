@@ -150,7 +150,7 @@ const styles = StyleSheet.create({
   div: {
     width: '100%',
     maxWidth: 400,
-    backgroundColor: 'rgba(73,63,140, 0.3)',
+    backgroundColor: 'rgba(59,201,217, 0.3)',
     padding: 10,
     alignItems: 'center',
     borderRadius: 20,
@@ -175,7 +175,7 @@ const styles = StyleSheet.create({
     outlineWidth: 0,
   },
   button: {
-    backgroundColor: 'rgba(73,63,140, 0.7)', // Cor de fundo do botão
+    backgroundColor: 'rgba(65,217,217, 0.7)', // Cor de fundo do botão
     borderRadius: 12, // Raio da borda do botão
     width: 150, // Largura do botão
     height: 40, // Altura do botão
